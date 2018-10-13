@@ -1,0 +1,28 @@
+body{
+              background-color: rgb(214,238,238);
+
+         }
+         form{
+              border: 4mm ridge rgb(30, 100, 102, .6);
+              margin-left: 25%;
+              margin-right: 25%;
+              padding-left: 16%;
+              
+         }
+         form input{
+              
+              display:block;
+
+         }
+         h1{
+            color:blue;
+            text-align: center;
+         }
+         input, textarea, select, button {
+                                           width : 150px;
+                                           margin: 0;
+
+                                          -webkit-box-sizing: border-box; /* For legacy WebKit based browsers */
+                                          -moz-box-sizing: border-box; /* For legacy (Firefox <29) Gecko based browsers */
+                                          box-sizing: border-box;
+}
